@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, LunchRandomizer!</string>
+    <string name="app_name">Lunch Randomizer</string>
+    <string name="lunchOption">Lunch String Here</string>
+    <string name="date">2011-17-04</string>
+    <string name="upvotesString">Up Votes</string>
+    <string name="upvotesCount">0</string>
+    <string name="downVotesString">Down Votes</string>
+    <string name="downvotesCount">0</string>
+</resources>
